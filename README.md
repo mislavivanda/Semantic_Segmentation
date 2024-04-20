@@ -7,7 +7,7 @@ Also, given the complexity of the model, understanding its logic and data flow p
 
 # Contents
 
-- *dynamic* folder contains code from original [repository](https://github.com/echonet/dynamic) extended with comments on Croatian language which explain program logic.
+- *echonet-dynamic* folder contains code from original [repository](https://github.com/echonet/dynamic) extended with comments on Croatian language which explain program logic.
 - *collab_pdf* corresponds to a PDF export of Google Colab notebook which can be found [here](https://colab.research.google.com/drive/1LtSaJN4dbfKi_GxSPR-k3ukVkU2RT5sF?usp=sharing#scrollTo=8BUSTgVNo75e) where you can find explanations for various code snippets from EchoNet-Dynamic model.
 - *paper.pdf* corresponds to original paper in which EchoNet-Dynamic model was first published.
 - *presentation.pdf* corresponds to presentation which was used while defending project on college.
