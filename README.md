@@ -13,4 +13,4 @@ Also, given the complexity of the model, understanding its logic and data flow p
 - *presentation.pdf* corresponds to presentation which was used while defending project on college.
 - *report.pdf* corresponds to project documentation with focus on computer architecture and hardware domain with addition of low level analysis of PyTorch[^1] framework which was used for EchoNet-Dynamic model development.
   
-[^1] Analysis was based on one of the most famous [issues](https://github.com/pytorch/pytorch/issues/13246) of PyTorch framework.
+[^1]: Analysis was based on one of the most famous [issues](https://github.com/pytorch/pytorch/issues/13246) of PyTorch framework.
